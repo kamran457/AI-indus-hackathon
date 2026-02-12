@@ -1,0 +1,10 @@
+streamlit
+langchain>=0.1.0
+langchain-community
+langchain-openai
+langchain-text-splitters
+faiss-cpu
+pypdf
+tiktoken
+pytest
+python-dotenv
